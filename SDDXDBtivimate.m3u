@@ -607,14 +607,21 @@ http://150.138.8.143/00/SNM/CHANNEL00001041/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东明综合" tvg-logo="https://gitee.com/song-zichang/atmalbert/raw/master/logo/山东/菏泽东明.png" catchup="none" catchup-days="0" group-title="🏘️ 山东县级" resolution="720x576" ,东明综合
 http://150.138.8.143/00/SNM/CHANNEL00001065/index.m3u8
 
+
 #################### 📻 广播电台 ####################
 
-#EXTINF:-1 tvg-id="" tvg-name="山东综合广播" tvg-logo="https://gitee.com/song-zichang/atmalbert/raw/master/logo/山东/山东综合广播.png" catchup="none" catchup-days="0" group-title="📻 广播电台" resolution="" ,山东综合广播
-http://150.138.8.143/00/SNM/CHANNEL00004008/index.m3u8
 #EXTINF:-1 tvg-id="490711724" tvg-name="山东经济广播" tvg-logo="https://gitee.com/song-zichang/atmalbert/raw/master/logo/山东/山东经济广播.png" tvg-chno="290" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221227366/490711725.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="📻 广播电台" resolution="1920x1080" ,山东经济广播
 http://150.138.8.143/00/SNM/CHANNEL00003001/index.m3u8
 #EXTINF:-1 tvg-id="495807201" tvg-name="山东交通广播" tvg-logo="https://gitee.com/song-zichang/atmalbert/raw/master/logo/山东/山东交通广播.png" tvg-chno="291" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221227370/495807202.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="📻 广播电台" resolution="1920x1080" ,山东交通广播
 http://150.138.8.143/00/SNM/CHANNEL00003002/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/song-zichang/atmalbert/raw/master/logo/山东/山东综合广播.png" catchup="none" catchup-days="0" group-title="📻 广播电台" resolution="" ,山东女主播电台
+http://ls.qingting.fm/live/60258.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/song-zichang/atmalbert/raw/master/logo/山东/山东综合广播.png" catchup="none" catchup-days="0" group-title="📻 广播电台" resolution="" ,山东新闻广播
+http://ls.qingting.fm/live/60180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/song-zichang/atmalbert/raw/master/logo/山东/山东综合广播.png" catchup="none" catchup-days="0" group-title="📻 广播电台" resolution="" ,山东生活广播
+http://ls.qingting.fm/live/60260.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/song-zichang/atmalbert/raw/master/logo/山东/山东综合广播.png" catchup="none" catchup-days="0" group-title="📻 广播电台" resolution="" ,山东音乐广播
+http://ls.qingting.fm/live/1665.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/song-zichang/atmalbert/raw/master/logo/山东/山东综合广播.png" catchup="none" catchup-days="0" group-title="📻 广播电台" resolution="" ,CRI华语环球
 http://sk.cri.cn/hyhq.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/song-zichang/atmalbert/raw/master/logo/山东/山东综合广播.png" catchup="none" catchup-days="0" group-title="📻 广播电台" resolution="" ,CRI环球资讯
@@ -905,14 +912,6 @@ http://ls.qingting.fm/live/1185.m3u8
 http://ls.qingting.fm/live/1840.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/song-zichang/atmalbert/raw/master/logo/山东/山东综合广播.png" catchup="none" catchup-days="0" group-title="📻 广播电台" resolution="" ,宁夏都市广播
 http://ls.qingting.fm/live/1842.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/song-zichang/atmalbert/raw/master/logo/山东/山东综合广播.png" catchup="none" catchup-days="0" group-title="📻 广播电台" resolution="" ,山东女主播电台
-http://ls.qingting.fm/live/60258.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/song-zichang/atmalbert/raw/master/logo/山东/山东综合广播.png" catchup="none" catchup-days="0" group-title="📻 广播电台" resolution="" ,山东新闻广播
-http://ls.qingting.fm/live/60180.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/song-zichang/atmalbert/raw/master/logo/山东/山东综合广播.png" catchup="none" catchup-days="0" group-title="📻 广播电台" resolution="" ,山东生活广播
-http://ls.qingting.fm/live/60260.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/song-zichang/atmalbert/raw/master/logo/山东/山东综合广播.png" catchup="none" catchup-days="0" group-title="📻 广播电台" resolution="" ,山东音乐广播
-http://ls.qingting.fm/live/1665.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/song-zichang/atmalbert/raw/master/logo/山东/山东综合广播.png" catchup="none" catchup-days="0" group-title="📻 广播电台" resolution="" ,岳阳交通广播
 http://ls.qingting.fm/live/88931.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/song-zichang/atmalbert/raw/master/logo/山东/山东综合广播.png" catchup="none" catchup-days="0" group-title="📻 广播电台" resolution="" ,岳阳新闻综合广播
