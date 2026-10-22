@@ -3,8 +3,8 @@
 #################### 💎 4K超高清 ####################
 #EXTINF:-1 tvg-id="CCTV-8K" tvg-name="CCTV-8K 超高清" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv8k.png" group-title="💎 4K超高清" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-8K 超高清
 http://192.168.0.25:8767/cctv8k.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV-16 奥林匹克" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv164k.png" group-title="💎 4K超高清",CCTV-16 奥林匹克4K
-http://192.168.0.25:8767/cctv164k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-16-4K" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CCTV16.png" group-title="💎 4K超高清" tvg-chno="62" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224//3221227032/422297679.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" resolution="3840x2160" ,CCTV-16 4K 超高清
+http://150.138.8.132/PLTV/88888888/224/3221227032/422297679.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="61" tvg-name="CCTV-4K" tvg-logo="https://gitee.com/song-zichang/atmalbert/raw/master/logo/CCTV/CCTV4K.png" group-title="💎 4K超高清" tvg-chno="61" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221227239/494657502.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" resolution="3840x2160" ,CCTV-4K
 http://150.138.8.132/PLTV/88888888/224/3221227239/494657502.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="518924347" tvg-name="北京卫视" tvg-logo="https://gitee.com/song-zichang/atmalbert/raw/master/logo/北京/北京卫视4K.png" tvg-chno="68" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221227299/518924348.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="💎 4K超高清" resolution="3840x2160" ,北京卫视4K
