@@ -1,6 +1,9 @@
 #EXTM3U url-tvg="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SD-EPG/main/EPG/sggc-desc.xml.gz"💰 📡 ☘️ 🌊 🏀 🪁 🏛 🛸 🍿 💽 📽️ 🎞️
 #EXTINF:-1 tvg-name="CCTV-4K 超高清" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4K.png" group-title="💎 4K超高清" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221227239/494657502.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" resolution="3840x2160" ,CCTV-4K 超高清
 rtsp://150.138.8.132/PLTV/88888888/224/3221227239/494657502.smil
+
+#EXTINF:-1 tvg-name="CCTV16-4K 超高清" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV16.png" group-title="💎 4K超高清" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224//3221227032/422297679.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" resolution="3840x2160" ,CCTV16-4K 超高清
+rtsp://150.138.8.132/PLTV/88888888/224//3221227032/422297679.smil
 #EXTINF:-1 tvg-name="山东卫视-4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东卫视4K.png" group-title="💎 4K超高清" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221227442/527218192.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" resolution="3840x2160" ,山东卫视4K
 rtsp://150.138.8.132/PLTV/88888888/224/3221227442/527218192.smil
 #EXTINF:-1 tvg-name="湖南卫视-4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/湖南卫视4K.png" group-title="💎 4K超高清" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221227316/527738296.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" resolution="3840x2160" ,湖南卫视4K
